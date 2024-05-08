@@ -10,7 +10,7 @@
     width: 20%;
     background-color: #ffd9df;
     /* 3つのp要素が横並びになるようにします。 */
-    display: inline;
+    display: inline-block;
 }
 #middle{
     position: relative;
